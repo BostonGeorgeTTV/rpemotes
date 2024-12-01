@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://mega.nz/file/MccTiBQY#V2zGtZY1TPezMDrggS5ZM6ZXvIyRXlhkXmMNdPZ5Jvw"># Download Animations #</a>
+</p>
+
 # RPEmotes 🏋️
 
 RPEmotes is a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes).
