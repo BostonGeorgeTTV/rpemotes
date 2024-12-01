@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mega.nz/file/MccTiBQY#V2zGtZY1TPezMDrggS5ZM6ZXvIyRXlhkXmMNdPZ5Jvw"># Download Animations #</a>
+  <a href="https://mega.nz/file/MccTiBQY#V2zGtZY1TPezMDrggS5ZM6ZXvIyRXlhkXmMNdPZ5Jvw"># Download Animations stream folder#</a>
 </p>
 
 # RPEmotes 🏋️
